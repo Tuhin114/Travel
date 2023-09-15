@@ -466,3 +466,19 @@ header .nav-bar {
     font-size: 0.9em;
   }
 }
+
+/* Footer section */
+
+footer{
+  height: 27px;
+}
+
+.footer{
+  background-color: rgb(143, 140, 140);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 10px;
+  color: white;
+  font-size: 17px;
+}
